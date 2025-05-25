@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/QuocKhanhMvc.props" />
+</Project>
