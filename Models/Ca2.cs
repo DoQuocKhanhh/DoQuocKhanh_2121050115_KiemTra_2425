@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace QUOCKHANHMVC.Models
+namespace QuocKhanhMvc.Models
 {
     public class Ca2
     {
