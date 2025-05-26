@@ -364,3 +364,4 @@
 /Users/khanhdo/QuocKhanhMvc/obj/Debug/net9.0/QuocKhanhMvc.pdb
 /Users/khanhdo/QuocKhanhMvc/obj/Debug/net9.0/QuocKhanhMvc.genruntimeconfig.cache
 /Users/khanhdo/QuocKhanhMvc/obj/Debug/net9.0/ref/QuocKhanhMvc.dll
+/Users/khanhdo/QuocKhanhMvc/obj/Debug/net9.0/QuocKhanhMvc.sourcelink.json
